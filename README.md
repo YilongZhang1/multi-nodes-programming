@@ -1,4 +1,4 @@
-This code implements grid computing following the map reduce fashion.
+This code implements cluster computing following the map reduce fashion.
 
 
 1. to run the executable in command line
